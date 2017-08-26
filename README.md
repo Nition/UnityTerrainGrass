@@ -6,6 +6,8 @@ Before and after:
 
 ![Grass before and after.](https://raw.github.com/nition/UnityTerrainGrass/master/readme_grass.jpg)
 
+It's super basic, it just changes the default cutout shader to one with alpha transparency. Performance seems good.
+
 # How to use
 
 Should work in Unity 4 and up, at least until they update the terrain system one day. Probably works in Unity 3 as well.

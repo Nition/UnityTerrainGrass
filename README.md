@@ -8,7 +8,7 @@ Before and after:
 
 # How to use
 
-Should work in Unity 4 and up, until they update the terrain system one day. Probably works in Unity 3 as well.
+Should work in Unity 4 and up, at least until they update the terrain system one day. Probably works in Unity 3 as well.
 
 - Make some built-in Unity terrain with grass.
 - Drop the two shaders anywhere in your Assets folder. They'll automatically override the hidden default ones.

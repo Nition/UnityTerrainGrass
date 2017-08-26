@@ -1,12 +1,12 @@
 # UnityTerrainGrass
 
-Drop-in replacement terrain grass shader for Unity.
+Drop-in replacement terrain grass shaders for Unity.
 
 Before and after:
 
 ![Grass before and after.](https://raw.github.com/nition/UnityTerrainGrass/master/readme_grass.jpg)
 
-It's super basic, it just changes the default cutout shader to one with alpha transparency. Performance seems good.
+These are super basic, just changing the default cutout shader to one with alpha transparency. Performance seems good.
 
 # How to use
 

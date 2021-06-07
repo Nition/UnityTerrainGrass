@@ -1,3 +1,5 @@
+Note: This repository is no longer maintained.
+
 # UnityTerrainGrass
 
 Drop-in replacement terrain grass shaders for Unity.
